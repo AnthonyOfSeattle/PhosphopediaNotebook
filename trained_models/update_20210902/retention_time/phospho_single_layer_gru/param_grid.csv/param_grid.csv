@@ -1,0 +1,2 @@
+embedding_dim,embeddings_l2,gru_dropout,gru_recurrent_dropout,hidden_units,learning_rate,output_dim,seq_length,vocab_size,name,best_model_train,best_model_val,success
+8,0.001,0.1,0.5,512,0.001,1,75,27,2fc8d3d6-2f2f-4284-bfec-48a6cd5d2110,0.009415206,0.009393474,True
